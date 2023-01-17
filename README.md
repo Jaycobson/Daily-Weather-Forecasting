@@ -1,6 +1,6 @@
 # Daily-Weather-Forecasting
 
-![My Image](my-image.jpg)
+![Weather Forecast](image_forecast.jpg)
 
 The Dataset was designed for the developers who want to train the model on Weather Forecasting for Indian climate. 
 
